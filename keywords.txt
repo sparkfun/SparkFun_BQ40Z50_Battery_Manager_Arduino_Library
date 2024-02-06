@@ -1,0 +1,44 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BQ40Z50	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+isConnected	KEYWORD2
+
+
+getTemperatureC	KEYWORD2
+getTemperatureF	KEYWORD2
+getVoltageMv	KEYWORD2
+getCurrentMa	KEYWORD2
+getAverageCurrentMa	KEYWORD2
+getMaxError	KEYWORD2
+getRelativeStateOfCharge	KEYWORD2
+getAbsoluteStateOfCharge	KEYWORD2
+getRemainingCapacityMah	KEYWORD2
+getFullChargeCapacityMah	KEYWORD2
+getRunTimeToEmptyMin	KEYWORD2
+getAverageTimeToEmptyMin	KEYWORD2
+getAverageTimeToFullMin	KEYWORD2
+getChargingCurrentMa	KEYWORD2
+getChargingVoltageMv	KEYWORD2
+getCycleCount	KEYWORD2
+getCellVoltage1Mv	KEYWORD2
+getCellVoltage2Mv	KEYWORD2
+getCellVoltage3Mv	KEYWORD2
+getCellVoltage4Mv	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
